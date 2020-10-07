@@ -44,10 +44,6 @@ Email: j.onodera26@gmail.com
 
 ![system architecture diagram](./assets/images/papyrus-architecture.png)
 
-| | Web | Desktop | API |
-| ---- | ---- | ---- |
-| - React<br/>- Redux<br/>- ReduxThunk<br/>- Next.js<br/>- Ant Design (for console)<br/>- Apollo Client<br/>- Immutable.js<br/>- Styled-Comopnents<br/>- TypeScript<br/>- Eslint+Prettier<br/>- Formik<br/> | - React<br/> - Redux Thunk<br/> - Electron<br/> - Apollo Client<br/> - Code Mirror<br/> - Formik<br/> - Eslint+Prettier | - Gin(Golang)<br/> - Mysql(Gorm)<br/> - GraphQL(gqlgen)<br/> - Docker<br/> - AWS ELB<br/> - AWS EC2<br/> - Sendgrid<br/> |
-
 <table>
  <thead>
   <tr>
@@ -61,23 +57,40 @@ Email: j.onodera26@gmail.com
    <td>
       <ul>
        <li>React</li>
-              <li>Redux</li>
-              <li>Redux Thunk</li>
-              <li>Next.js</li>
-              <li>Immutable.js</li>
-              <li>Styled Components</li>
-              <li>TypeScript</li>
-              <li>Apollo Client</li>
-              <li>Ant Design(for console)</li>
+       <li>Redux</li>
+       <li>Redux Thunk</li>
+       <li>Next.js</li>
+       <li>Immutable.js</li>
+       <li>Styled Components</li>
+       <li>TypeScript</li>
+       <li>Apollo Client</li>
+       <li>Ant Design(for console)</li>
+       <li>Eslint+Prettier</li>
+       <li>Formik</li>
       </ul>
    </td>
    <td>
     　<ul>
-        <li></li>
-        <li></li>
+        <li>React</li>
+        <li>Redux Thunk</li>
+        <li>Electron</li>
+        <li>Apollo Client</li>
+        <li>Code Mirror</li>
+        <li>Formik</li>
+        <li>Eslint+Prettier</li>
      </ul>
    </td>
-   <td></td>
+   <td>
+     <ul>
+      <li>Gin(Golang)</li>
+      <li>Gorm(MySQL))</li>
+      <li>GraphQL(gqlgen)</li>
+      <li>Docker</li>
+      <li>AWS ELB</li>
+      <li>AWS EC2</li>
+      <li>Sendgrid</li>
+     </ul>
+   </td>
   </tr>
  </tbody>
 </table>
