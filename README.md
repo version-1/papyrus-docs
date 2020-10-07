@@ -40,49 +40,14 @@ If you are interested in me, please contact bellow.
 
 Email: j.onodera26@gmail.com
 
-![system architecture diagram](./assets/images/papyrus-on-desktop.png)
+![system architecture diagram](./assets/images/papyrus-architecture.png)
 
-### Web
+| | |
+| ---- | ----
+| Web | - React<br/>- Redux<br/>- ReduxThunk<br/>- Next.js<br/>- Ant Design (for console)<br/>- Apollo Client<br/>- Immutable.js<br/>- Styled-Comopnents<br/>- TypeScript<br/>- Eslint+Prettier<br/>- Formik<br/> |
+| Desktop | - React<br/> - Redux Thunk<br/> - Electron<br/> - Apollo Client<br/> - Code Mirror<br/> - Formik<br/> - Eslint+Prettier |
+| API | - Gin(Golang)<br/> - Mysql(Gorm)<br/> - GraphQL(gqlgen)<br/> - Docker<br/> - AWS ELB<br/> - AWS EC2<br/> - Sendgrid<br/> - |
 
-- React
-- Redux
-- ReduxThunk
-- Next.js
-- Ant Design (for console)
-- Apollo Client
-- Immutable.js
-- Styled-Comopnents
-- TypeScript
-- Eslint+Prettier
-- Formik
-
-### Desktop
-
-- React
-- Redux Thunk
-- Electron
-- Apollo Client
-- Code Mirror
-- Formik
-- Eslint+Prettier
-
-### Api
-
-- Gin(Golang)
-- Mysql(Gorm)
-- GraphQL(gqlgen)
-- Docker
-- AWS ELB
-- AWS EC2
-- Sendgrid
-
-### Architecture
-
-### System
-
-
-
-### Desktop
 
 
 
