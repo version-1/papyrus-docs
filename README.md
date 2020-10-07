@@ -98,18 +98,16 @@ Email: j.onodera26@gmail.com
  </tbody>
 </table>
 
-
-
 ## Features
 
-<ul style="list-style-type: none;">
- <li>:heavy_check_mark: Write and edit with markdown</li>
- <li>:heavy_check_mark: Preview content written by markdowny</li>
- <li>:heavy_check_mark: Multi Screeny</li>
- <li>:heavy_check_mark: Persistent Datay</li>
- <li>:heavy_check_mark: Adjust font size and font familly</li>
- <li>:heavy_check_mark: Change Color Theme</li>
-</ul>
+
+:heavy_check_mark:  Write and edit with markdown<br/>
+:heavy_check_mark:  Preview content written by markdowny<br/>
+:heavy_check_mark:  Multi Screeny<br/>
+:heavy_check_mark:  Persistent Datay<br/>
+:heavy_check_mark:  Adjust font size and font familly<br/>
+:heavy_check_mark:  Change Color Theme<br/>
+
 
 ### Upcoming
 
