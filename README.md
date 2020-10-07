@@ -42,11 +42,9 @@ Email: j.onodera26@gmail.com
 
 ![system architecture diagram](./assets/images/papyrus-architecture.png)
 
-| | |
-| ---- | ----
-| Web | - React<br/>- Redux<br/>- ReduxThunk<br/>- Next.js<br/>- Ant Design (for console)<br/>- Apollo Client<br/>- Immutable.js<br/>- Styled-Comopnents<br/>- TypeScript<br/>- Eslint+Prettier<br/>- Formik<br/> |
-| Desktop | - React<br/> - Redux Thunk<br/> - Electron<br/> - Apollo Client<br/> - Code Mirror<br/> - Formik<br/> - Eslint+Prettier |
-| API | - Gin(Golang)<br/> - Mysql(Gorm)<br/> - GraphQL(gqlgen)<br/> - Docker<br/> - AWS ELB<br/> - AWS EC2<br/> - Sendgrid<br/> - |
+| | Web | Desktop | API |
+| ---- | ---- | ---- |
+| - React<br/>- Redux<br/>- ReduxThunk<br/>- Next.js<br/>- Ant Design (for console)<br/>- Apollo Client<br/>- Immutable.js<br/>- Styled-Comopnents<br/>- TypeScript<br/>- Eslint+Prettier<br/>- Formik<br/> | | - React<br/> - Redux Thunk<br/> - Electron<br/> - Apollo Client<br/> - Code Mirror<br/> - Formik<br/> - Eslint+Prettier | - Gin(Golang)<br/> - Mysql(Gorm)<br/> - GraphQL(gqlgen)<br/> - Docker<br/> - AWS ELB<br/> - AWS EC2<br/> - Sendgrid<br/> - |
 
 
 
