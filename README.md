@@ -36,7 +36,8 @@ I hope that you like this app and frendly feedback.
 
 ## Technology
 
-Now I am looking for next full-time job so to prove my technology skill and interest, I will explain about the architecture of this app.
+Now I am looking for a full-time job.
+That is why ,to prove my technology skill and interest, I will explain about the architecture of this app.
 I love to develop a interesitng and good product to move users so prefer to design from end to end and develop.
 If you are interested in me, please contact bellow.
 
@@ -76,6 +77,8 @@ Email: j.onodera26@gmail.com
         <li>Electron</li>
         <li>Apollo Client</li>
         <li>Code Mirror</li>
+        <li>TypeScript</li>
+        <li>Nedb</li>
         <li>Formik</li>
         <li>Eslint+Prettier</li>
      </ul>
@@ -97,6 +100,20 @@ Email: j.onodera26@gmail.com
 
 
 
+## Features
+
+- [ ] Write and edit with markdown
+- [ ] Preview content written by markdown
+- [ ] Multi Screen
+- [ ] Persistent Data
+- [ ] Adjust font size and font familly
+- [ ] Change Color Theme
+
+### Upcoming
+
+- [ ] Sync data remotely between devices you login
+- [ ] Change color theme
+- [ ] Customize memo appearance
 
 
 
