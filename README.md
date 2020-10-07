@@ -1,5 +1,5 @@
 
-🚧️ This app is still Beta Release 🚧️
+:warning: This app is still Beta Release :warning:
 
  This repository is document repository for PaPyrus
 
@@ -71,7 +71,12 @@ Email: j.onodera26@gmail.com
               <li>Ant Design(for console)</li>
       </ul>
    </td>
-   <td></td>
+   <td>
+    　<ul>
+        <li></li>
+        <li></li>
+     </ul>
+   </td>
    <td></td>
   </tr>
  </tbody>
