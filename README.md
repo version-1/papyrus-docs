@@ -44,8 +44,36 @@ Email: j.onodera26@gmail.com
 
 | | Web | Desktop | API |
 | ---- | ---- | ---- |
-| - React<br/>- Redux<br/>- ReduxThunk<br/>- Next.js<br/>- Ant Design (for console)<br/>- Apollo Client<br/>- Immutable.js<br/>- Styled-Comopnents<br/>- TypeScript<br/>- Eslint+Prettier<br/>- Formik<br/> | | - React<br/> - Redux Thunk<br/> - Electron<br/> - Apollo Client<br/> - Code Mirror<br/> - Formik<br/> - Eslint+Prettier | - Gin(Golang)<br/> - Mysql(Gorm)<br/> - GraphQL(gqlgen)<br/> - Docker<br/> - AWS ELB<br/> - AWS EC2<br/> - Sendgrid<br/> - |
+| - React<br/>- Redux<br/>- ReduxThunk<br/>- Next.js<br/>- Ant Design (for console)<br/>- Apollo Client<br/>- Immutable.js<br/>- Styled-Comopnents<br/>- TypeScript<br/>- Eslint+Prettier<br/>- Formik<br/> | - React<br/> - Redux Thunk<br/> - Electron<br/> - Apollo Client<br/> - Code Mirror<br/> - Formik<br/> - Eslint+Prettier | - Gin(Golang)<br/> - Mysql(Gorm)<br/> - GraphQL(gqlgen)<br/> - Docker<br/> - AWS ELB<br/> - AWS EC2<br/> - Sendgrid<br/> |
 
+<table>
+ <thead>
+  <tr>
+   <th>Web</th>
+   <th>Desktop</th>
+   <th>API</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+      <ul>
+       <li>React</li>
+              <li>Redux</li>
+              <li>Redux Thunk</li>
+              <li>Next.js</li>
+              <li>Immutable.js</li>
+              <li>Styled Components</li>
+              <li>TypeScript</li>
+              <li>Apollo Client</li>
+              <li>Ant Design(for console)</li>
+      </ul>
+   </td>
+   <td></td>
+   <td></td>
+  </tr>
+ </tbody>
+</table>
 
 
 
