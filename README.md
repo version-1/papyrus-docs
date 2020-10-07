@@ -5,7 +5,9 @@
 
 # PaPyrus
 
-![papyrus thumbnail](./assets/images/papyrus-thumbnail.png)
+<a href="https://papyrus-app.org/">
+ <img src="./assets/images/papyrus-thumbnail.png" alt="papyrus thumbnail" />
+</a>
 
 You can check this product for a following link
 
