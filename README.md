@@ -7,6 +7,87 @@
 
 ![papyrus thumbnail](./assets/images/papyrus-thumbnail.png)
 
+You can check this product for a following link
+
 [https://papyrus-app.org/](https://papyrus-app.org/)
 
 ## About
+
+### Overview
+
+PaPyrus is a memo application like sticky note. It makes your work boost by just putting it on desktop.
+It is easy to use and you don't need to think about many things which general memo apps has such as category, tag, title and so on.
+
+![papyrus on desktop](./assets/images/papyrus-on-desktop.png)
+
+You can use this app as if it is Snapchat or Story on Instagram.
+
+### Why I made
+
+There are a lot of awesome memo applications in the world but I didn't satisfy those applications because
+My almost notes are likely to be short-lived and not to be reviewed again.
+Almost applications have too many features to match with this useage.
+
+That is why I had been wanting a application managing short-lived memos and made it.
+
+I hope that you like this app and frendly feedback.
+
+## Technology
+
+Now I am looking for next full-time job so to prove my technology skill and interest, I will explain about the architecture of this app.
+I love to develop a interesitng and good product to move users so prefer to design from end to end and develop.
+If you are interested in me, please contact bellow.
+
+Email: j.onodera26@gmail.com
+
+![system architecture diagram](./assets/images/papyrus-on-desktop.png)
+
+### Web
+
+- React
+- Redux
+- ReduxThunk
+- Next.js
+- Ant Design (for console)
+- Apollo Client
+- Immutable.js
+- Styled-Comopnents
+- TypeScript
+- Eslint+Prettier
+- Formik
+
+### Desktop
+
+- React
+- Redux Thunk
+- Electron
+- Apollo Client
+- Code Mirror
+- Formik
+- Eslint+Prettier
+
+### Api
+
+- Gin(Golang)
+- Mysql(Gorm)
+- GraphQL(gqlgen)
+- Docker
+- AWS ELB
+- AWS EC2
+- Sendgrid
+
+### Architecture
+
+### System
+
+
+
+### Desktop
+
+
+
+
+
+
+
+
