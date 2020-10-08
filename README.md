@@ -100,12 +100,14 @@ Email: j.onodera26@gmail.com
 
 ## Features
 
--  Write and edit with markdown
--  Preview content written by markdowny
--  Multi Screeny
--  Persistent Datay
--  Adjust font size and font familly
--  Change Color Theme
+<ul>
+ <li>Write and edit with markdown</li>
+ <li>Preview content written by markdowny</li>
+ <li>Multi Screeny</li>
+ <li>Persistent Datay</li>
+ <li>Adjust font size and font familly</li>
+ <li>Change Color Theme</li>
+</ul>
 
 ### Upcoming
 
