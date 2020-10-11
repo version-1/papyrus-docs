@@ -1,7 +1,7 @@
 
 :warning: This app is still Beta Release :warning:
 
- This repository is document repository for PaPyrus
+ This repository is a document repository for PaPyrus
 
 # PaPyrus
 
