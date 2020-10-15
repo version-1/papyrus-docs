@@ -43,7 +43,7 @@ If you are interested in me, please contact bellow.
 
 Email: j.onodera26@gmail.com
 
-![system architecture diagram](./assets/images/papyrus-architecture.png)
+![system architecture diagram](./assets/images/papyrus-architecture-2.png)
 
 <table>
  <thead>
