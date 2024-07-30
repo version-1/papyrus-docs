@@ -41,7 +41,7 @@ That is why ,to prove my technology skill and interest, I will explain about the
 I love to develop a interesitng and good product to move users so prefer to design from end to end and develop.
 If you are interested in me, please contact bellow.
 
-Email: j.onodera26@gmail.com
+Email: j.code.public@gmail.com
 
 ![system architecture diagram](./assets/images/papyrus-architecture-2.png)
 
