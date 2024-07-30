@@ -1,5 +1,5 @@
 
-:warning: This app is still Beta Release :warning:
+:warning: Development Halt :warning:
 
  This repository is a document repository for PaPyrus
 
